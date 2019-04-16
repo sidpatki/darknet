@@ -1,3 +1,7 @@
+# DARKNET : Sid's Fork
+
+This forked version allows to train darknet using gpu and save weights every 1000th iteration
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
