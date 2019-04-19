@@ -2,6 +2,11 @@
 
 This forked version allows to train darknet using gpu and save weights every 1000th iteration
 
+To train the individual networks,
+
+- Download the pretrained weights trained on ImageNet dataset from here: https://pjreddie.com/media/files/darknet53.conv.74
+ 
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
