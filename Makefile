@@ -1,7 +1,8 @@
 # GPU=0
 # Turning on the GPU support
 GPU=1
-CUDNN=0
+# Turning on the CUDNN support
+CUDNN=1
 OPENCV=0
 OPENMP=0
 DEBUG=0
